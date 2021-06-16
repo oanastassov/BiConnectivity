@@ -1,0 +1,8 @@
+// Author: Olivia Anastassov 
+
+// This folder contains:
+// Bi-Connected Components Algorithm 
+// Mathematica visualization provided by Professor Streinu
+// A data folder containing the input and the output information from this algorithm
+
+// Go to unit tests for running instructions 
